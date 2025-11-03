@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 export function About() {
   return (
-    <Card className="bg-zinc-950 border-zinc-800">
+    <Card className="bg-zinc-850 border-zinc-700 gap-4">
       <CardHeader>
         <CardTitle className="text-white">About</CardTitle>
       </CardHeader>

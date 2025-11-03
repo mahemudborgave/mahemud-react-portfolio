@@ -25,7 +25,7 @@ export function Projects() {
   ];
 
   return (
-    <Card className="bg-zinc-950 border-zinc-800">
+    <Card className="bg-zinc-850 border-zinc-700">
       <CardHeader>
         <CardTitle className="text-white">Projects</CardTitle>
       </CardHeader>
